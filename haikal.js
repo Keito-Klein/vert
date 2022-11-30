@@ -151,18 +151,18 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "" } : {})
 //=================================================//
 //=================================================//
 const bal= (teks) => {
-haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `Vertibus ${ngazap(prefix)}`,"body": `Vertibus ${ngazap(prefix)}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g`}}}, { quoted: doc })
+haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `Vertibus ${ngazap(prefix)}`,"body": `Vertibus ${ngazap(prefix)}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://www.youtube.com/channel/UCx9z-b0cslwd1Oahh4eBD0g?`}}}, { quoted: doc })
 } 
 // Target
 const reply = (teks) => {
-return haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC Vertibus`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g`}}}, { quoted: hw })
+return haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC Vertibus`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://www.youtube.com/channel/UCx9z-b0cslwd1Oahh4eBD0g?`}}}, { quoted: hw })
 } 
 
 const anjay = (teks) => {
  haikal.sendMessage(m.chat, { image: kalimage, caption: teks, contextInfo:{"externalAdReply": {"title": `SC Vertibus`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g`,
+sourceUrl: `https://www.youtube.com/channel/UCx9z-b0cslwd1Oahh4eBD0g?`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -2104,7 +2104,7 @@ break
 case 'sc': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
-anjay('SC INI DI RECODE OLEH MBY•OFFICIAL\n\n Sc Bot : https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g')
+anjay('SC INI DI RECODE OLEH MBY•OFFICIAL\n\n Sc Bot : https://www.youtube.com/channel/UCx9z-b0cslwd1Oahh4eBD0g?')
 }
 break
 //=================================================//
