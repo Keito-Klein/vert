@@ -15,11 +15,11 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://www.youtube.com/channel/UCx9z-b0cslwd1Oahh4eBD0g?'
 global.ig = 'https://www.instagram.com/fritz_icarius'
-global.mygc = 'wa.me/6289675651966'
-global.myweb = 'https://keito-klein.github.io'
-global.linkgrupss = "KAGA ADA"
+global.mygc = 'wa.me/6289675651966'//ini Group wa mu
+global.myweb = 'https://keito-klein.github.io'//ini websitemu (kalo ada)
+global.linkgrupss = "KAGA ADA"//link grupmu
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.email = 'taufikqillah25@gmail.com'
+global.email = 'taufikqillah25@gmail.com'//emailmu
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'MiKako' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -27,11 +27,11 @@ global.botname = 'Vertibus' //ubah jadi nama bot mu, note tanda ' gausah di hapu
 global.footer = '-Vertibus-' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6289675651966']
-global.premium = ['6281511480762']
-global.packname = 'Beliau'
-global.ownerr = ['MiKako']
-global.author = 'MiKako'
+global.owner = ['6289675651966']//nomermu
+global.premium = ['6281511480762']//list yang jdi user premium di botmu
+global.packname = 'Beliau'//Watermark sticker
+global.ownerr = ['MiKako']//nama mu
+global.author = 'MiKako'//watermark sticker
 global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
